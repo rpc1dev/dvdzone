@@ -1,0 +1,4 @@
+FRAMEWORKS=-framework IOKit -framework CoreFoundation -framework CoreServices
+
+dvdzone: *.c*
+	g++ -o dvdzone $(FRAMEWORKS) -Wall *.c*

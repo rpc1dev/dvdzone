@@ -1,0 +1,5 @@
+v0.4	Uses fPLScsi 1.1 and isDVD() alt => improved Linux detection
+v0.3	Mostly fixes to get the windows version running
+v0.2	Now cares about the drive being ready or not.
+v0.1	Based on latest plscsi.
+v0.0	Initial version.

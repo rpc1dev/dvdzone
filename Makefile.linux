@@ -1,0 +1,2 @@
+dvdzone: *.c*
+	g++ -o dvdzone -Wall *.c*
